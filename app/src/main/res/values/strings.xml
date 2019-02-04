@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FuelAPIApp</string>
+    <string name="obtenerDatos">GET Request\'s Response</string>
+    <string name="get">OBTENER RESPUESTA</string>
+</resources>
